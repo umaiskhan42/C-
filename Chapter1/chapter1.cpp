@@ -85,5 +85,24 @@ return 0;
 }
 
 
+#include <iostream>
+
+int main()  
+{
+
+//create a program that asks the user to enter an integer, waits for them to input an integer, 
+//then tells them what 2 times that number is.
+
+std::cout<<"Enter any integer ";
+int mul{};
+std::cin>>mul;
+std::cout<<"The Multiplied by 2 is : "<<mul*2<<std::endl;
+
+return 0;
+
+}
+
+
+
 //Prefer \n over std::endl
 
