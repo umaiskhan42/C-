@@ -73,10 +73,17 @@ int c( 6 );    // initial value in parenthesis (direct initialization)
 int d { 7 };   // initial value in braces (direct list initialization)
 int e = { 8 }; // initial value in braces after equals sign (copy list initialization)
 int f {};      // initializer is empty braces (value initialization)
+
+std::cout<<"Enter two Numbers: ";
+int x{};
+int y{};
+std::cin>>x;
+std::cout<<"Number entered is : "<<x<<" AND "<<y<<std::endl;
 std::cout<<"Answers: 	"<<a<<b<<c<<d<<e<<f;  
 return 0;
 
-
 }
 
+
 //Prefer \n over std::endl
+
