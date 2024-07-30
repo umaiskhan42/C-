@@ -20,3 +20,20 @@ This particular return statement returns the value 0 to the operating system,
  This is the last statement in the program that executes.
 '''
 }
+
+
+// 1.2 Comments
+A comment is a programmer-readable note that is inserted directly into the source code of the program. 
+Comments are ignored by the compiler and are for the programmer’s use only.
+
+//Single Line comment
+
+/*
+Multi 
+Line 
+Comment
+*/
+
+// You can comment or uncomment a selection by pressing ctrl-/.
+
+// In VS Code
