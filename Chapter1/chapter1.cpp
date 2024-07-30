@@ -25,8 +25,11 @@ This particular return statement returns the value 0 to the operating system,
 
 //-----------------------------------------------------------------//
 // 1.2 Comments
+
+/*
 A comment is a programmer-readable note that is inserted directly into the source code of the program. 
 Comments are ignored by the compiler and are for the programmer’s use only.
+*/
 
 //Single Line comment
 
